@@ -10,7 +10,7 @@
 * 🤖 [**Low Level Programming**](https://github.com/tarikamar/holbertonSchool-lowLevelProgramming)
 * 🤖 [**High level Programming**](https://github.com/tarikamar/holbertonSchool-highLevelProgramming)
 * 🤖 [**Front and Back end**](https://github.com/tarikamar/frontBackEnd)
-* 🤖 [**Blockchain Environement **](https://github.com/tarikamar/blockchainEnv)
+* 🤖 [**Blockchain Environement**](https://github.com/tarikamar/blockchainEnv)
 
 #
 
