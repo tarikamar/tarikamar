@@ -23,7 +23,7 @@
 ### Contacts
 
 📫 How to reach me :
-  - 🥂 Linkeding : https://www.linkedin.com/in/tarik-amar-b914a6216/
+  - 🥂 Linkedin : https://www.linkedin.com/in/tarik-amar/
   - 📩 Mail :  tarik.amar.pro@gmail.com
   - 👨‍💻 Medium : https://medium.com/@tarik.amar
   - 🐦 Twitter : https://twitter.com/PandaTarik1
