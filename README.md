@@ -1,9 +1,9 @@
-### Who I am ? 
+### ❓ Who I am ? 
 - 👋 Hi, I’m Tarik Amar
 - 🌱 After earning a bachelor degree in Law, my interest shifted toward the tech world. I enrolled to the @holbertonschool in order to gain knowledge in coding.
 #
 
-### What I Am Learning ? 
+### 📖 What I Am Learning ? 
 * 🤖 [**Git**](https://github.com/tarikamar/git)
 * 🤖 [**Terminal**](https://github.com/tarikamar/terminal)
 * 🤖 [**Information technology**](https://github.com/tarikamar/informationTechnology)
@@ -14,13 +14,13 @@
 
 #
 
-### Projects 
+### ⚙️ Projects 
 
 🕟 In progress ...
 
 #
 
-### Contacts
+### 🎙️ Contact
 
 📫 How to reach me :
   - 🥂 Linkedin : https://www.linkedin.com/in/tarik-amar/
