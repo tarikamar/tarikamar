@@ -4,8 +4,7 @@
 #
 
 ### 📖 What I Am Learning ? 
-* 🤖 [**Git**](https://github.com/tarikamar/git)
-* 🤖 [**Terminal**](https://github.com/tarikamar/terminal)
+* 🤖 [**Dev Tools**](https://github.com/tarikamar/git)
 * 🤖 [**Information technology**](https://github.com/tarikamar/informationTechnology)
 * 🤖 [**Low Level Programming**](https://github.com/tarikamar/holbertonSchool-lowLevelProgramming)
 * 🤖 [**High level Programming**](https://github.com/tarikamar/holbertonSchool-highLevelProgramming)
