@@ -6,8 +6,8 @@
 ### 📖 What I Am Learning ? 
 * 🤖 [**Dev Tools**](https://github.com/tarikamar/git)
 * 🤖 [**Information technology**](https://github.com/tarikamar/informationTechnology)
-* 🤖 [**Low Level Programming**](https://github.com/tarikamar/holbertonSchool-lowLevelProgramming)
-* 🤖 [**High level Programming**](https://github.com/tarikamar/holbertonSchool-highLevelProgramming)
+* 🤖 [**Low Level Programming**](https://github.com/tarikamar/low-level-programming)
+* 🤖 [**High level Programming**](https://github.com/tarikamar/highLevelProgramming)
 * 🤖 [**Front and Back end**](https://github.com/tarikamar/frontBackEnd)
 * 🤖 [**Blockchain Environement**](https://github.com/tarikamar/blockchainEnv)
 
