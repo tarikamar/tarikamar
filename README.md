@@ -1,15 +1,10 @@
 ### ❓ Who I am ? 
 - 👋 Hi, I’m Tarik Amar
-- 🌱 After earning a bachelor degree in Law, my interest shifted toward the tech world. I enrolled to the @holbertonschool in order to gain knowledge in coding.
+- 🌱 After earning a LL.B in French Law, I am currently enrolled at St Mary's University in a LL.M program in International Law. 
+- Working currently on a legal dissertation related to A.I.
 #
 
 ### 📖 What I Am Learning ? 
-* 🤖 [**Dev Tools**](https://github.com/tarikamar/git)
-* 🤖 [**Information technology**](https://github.com/tarikamar/informationTechnology)
-* 🤖 [**Low Level Programming**](https://github.com/tarikamar/low-level-programming)
-* 🤖 [**High level Programming**](https://github.com/tarikamar/highLevelProgramming)
-* 🤖 [**Front and Back end**](https://github.com/tarikamar/frontBackEnd)
-* 🤖 [**Blockchain Environement**](https://github.com/tarikamar/blockchainEnv)
 
 #
 
@@ -17,16 +12,6 @@
 
 🕟 In progress ...
 
-#
-
-### 🎙️ Contact
-
-📫 How to reach me :
-  - 🥂 Linkedin : https://www.linkedin.com/in/tarik-amar/
-  - 📩 Mail :  tarik.amar.pro@gmail.com
-  - 👨‍💻 Medium : https://medium.com/@tarik.amar
-  - 🐦 Twitter : https://twitter.com/PandaTarik1
-  - 💻 Stackoverflow : https://stackoverflow.com/users/13925066/tarikamar
   
 
 <!---
