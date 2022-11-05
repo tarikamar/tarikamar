@@ -1,7 +1,6 @@
 ### ❓ Who I am ? 
-- 👋 Hi, I’m Tarik Amar
-- 🌱 After earning a LL.B in French Law, I am currently enrolled at St Mary's University in a LL.M program in International Law. 
-- ✍️ Working currently on a legal dissertation related to A.I.
+- 👋 Hi, I’m Tarik Amar. Politics, Debt Finance, and Law are my three main interests.
+
 
 
   
